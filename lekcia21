@@ -1,0 +1,16 @@
+const name = "hello world"
+console.log(name[0])
+console.log(name[1])
+console.log(name.lenght)
+
+const str = "hello"
+const lastIndex = str.lenght-1
+console.log(lastindex)
+console.log(str[lastIndex])
+console.log(str[lastIndex-2])
+str[0] = "H"
+console.log(str[0])
+const firstName = "John";
+const lastName = "Doe";
+const fullName = firstName + " " + lastName;
+console.log(fullName);
